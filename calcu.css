@@ -1,0 +1,14 @@
+.calci{
+	border: 2px solid black;
+	width: 50%;
+	height: 50%;
+	margin-top: 20px;
+	padding: 5px;
+	margin-left: 20px;
+	background-color: gray;
+
+}
+button{
+	background-color: blue;
+	font-weight: bold;
+}
